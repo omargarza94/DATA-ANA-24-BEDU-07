@@ -4,6 +4,6 @@ requests
 seaborn
 matplotlib
 scipy
-jupyter
-plotly
 scikit-learn
+plotly
+squarify
